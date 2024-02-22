@@ -1,0 +1,12 @@
+.heading{
+    text-align: left;
+    background-color: purple;
+    padding:5px;
+    text-transform: capitalize;
+    color: white;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1px;
+    text-shadow: 10px 10px 10px rgb(23, 3, 3);
+  }
+   
